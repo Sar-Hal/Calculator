@@ -4,7 +4,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background : linear-gradient(135deg,#98cf18de,#4e085f);
+    background : linear-gradient(135deg,#affa02de,#4e085f);
 }
 #calculator{
     font-family: Arial, sans-serif;
