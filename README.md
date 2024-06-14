@@ -1,2 +1,2 @@
 # Calculator
- Just a calculator (To be updated)
+ Just a calculator
